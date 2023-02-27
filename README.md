@@ -1,6 +1,10 @@
-### Hi there 👋
 
-<!--
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/DgLsbUL7SG3kI/giphy.gif" width="200"/>
+<h1 align="center">HI! 👋 i´m Amy</h1>
+</div>
+
+
 **amisauria/amisauria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
