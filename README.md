@@ -1,4 +1,4 @@
-🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆
+🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/DgLsbUL7SG3kI/giphy.gif" width="700" height="400"/>
 <h1 align="center">✌️Hi! i´m Amy</h1>
@@ -24,5 +24,9 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" witdh="40" height="40"/>&nbsp;
     </div>  
 </div> 
-
+  
+---
+  
+### 📊 My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amisauria&theme=jolly&hide_border=true&border_radius=17.3&mode=weekly)](https://git.io/streak-stats)
 
