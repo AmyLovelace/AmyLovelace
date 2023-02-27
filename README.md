@@ -1,20 +1,28 @@
-
+🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/DgLsbUL7SG3kI/giphy.gif" width="200"/>
-<h1 align="center">HI! 👋 i´m Amy</h1>
+<img src="https://media.giphy.com/media/DgLsbUL7SG3kI/giphy.gif" width="700" height="400"/>
+<h1 align="center">✌️Hi! i´m Amy</h1>
+<h3 align="center">An unstopable learner from Chile 📌 working towards expanding my set of skills and languages 
 </div>
 
+  ---
+  
+### ⚡About Me :
+-🌱 currently learning **js css**
+  
+-👩🏻‍💻Ask me about web development
 
-**amisauria/amisauria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-fun fact:
+  
+---
+<div align="left">
+    <h3>🛠️ Languages and Tools:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" witdh="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" witdh="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" witdh="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" witdh="40" height="40"/>&nbsp;
+    </div>  
+</div> 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
