@@ -32,6 +32,5 @@
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amisauria&theme=jolly&hide_border=true&border_radius=17.3&mode=weekly)](https://git.io/streak-stats)
   
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amisauria&theme=react&line_height=40&hide=css"/> </a>
  
 <a href=""> <img align="center" src="<https://github-readme-stats-sigma-five.vercel.app/top-langs/api?username=amisauria&layout=compact"/></a>
