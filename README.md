@@ -33,4 +33,4 @@
 
 [![amisauria's GitHub stats](https://github-readme-stats-peach-ten-39.vercel.app/api?username=amisauria&theme=cobalt)](https://github.com/amisauria/github-readme-stats)
  
-[![Top Langs](https://github-readme-stats-amisauria.vercel.app//api/top-langs/?username=amisauria&layout=compact)](https://github.com/amisauria/github-readme-stats)
+[![Top Langs](https://github-readme-stats-amisauria.vercel.app/api/top-langs/?username=amisauria&layout=compact)](https://github.com/amisauria/github-readme-stats)
