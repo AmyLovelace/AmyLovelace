@@ -33,7 +33,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amisauria&theme=jolly&hide_border=true&border_radius=17.3&mode=weekly)](https://git.io/streak-stats)
   
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amisauria&theme=react&line_height=40&hide=css"/> </a>
-
-([https://github-readme-stats-amisauria.vercel.app](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amisauria)/api?username=amisauria&theme=cobalt)](https://github.com/amisauria/github-readme-stats)
  
-[![Top Langs](https://github-readme-stats-amisauria.vercel.app/top-langs/api?username=amisauria&layout=compact)](https://github.com/amisauria/github-readme-stats)
+<a href=""> <img align="center" src="<https://github-readme-stats-sigma-five.vercel.app/top-langs/api?username=amisauria&layout=compact"/></a>
