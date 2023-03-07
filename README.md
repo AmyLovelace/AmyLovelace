@@ -27,10 +27,11 @@
   
 ---
   
+  
 ### 📊 My Stats :
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amisauria&theme=jolly&hide_border=true&border_radius=17.3&mode=weekly)](https://git.io/streak-stats)
 
-[![amisauria's GitHub stats](https://github-readme-stats-amisauria.vercel.app/api?username=amisauria&theme=cobalt)](https://github.com/amisauria/github-readme-stats)
+([https://github-readme-stats-amisauria.vercel.app](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amisauria)/api?username=amisauria&theme=cobalt)](https://github.com/amisauria/github-readme-stats)
  
 [![Top Langs](https://github-readme-stats-amisauria.vercel.app/top-langs/api?username=amisauria&layout=compact)](https://github.com/amisauria/github-readme-stats)
