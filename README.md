@@ -12,7 +12,7 @@
   
 -👩🏻‍💻Ask me about web development
 
--fun fact:
+-fun fact 🐈 : i enjoy true crime documentaries , conversations about cats and a frantic tea drinker. 
   
 ---
 <div align="left">
