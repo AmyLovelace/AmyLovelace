@@ -37,4 +37,4 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amisauria)](https://github.com/amisauria/github-readme-stats)
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=amisauria)](https://github.com/amisauria/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
