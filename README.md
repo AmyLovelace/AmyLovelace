@@ -30,8 +30,7 @@
   
 ### 📊 My Stats :
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amisauria)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amisauria&theme=monokai&hide_border=true&border_radius=6&mode=weekly)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amisauria&langs_count=8&theme=onedark)](https://github.com/amisauria/github-readme-stats)
   
