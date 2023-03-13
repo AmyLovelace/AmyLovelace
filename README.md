@@ -33,6 +33,9 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=amisauria&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=amisauria&theme=default" />
 </picture>
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amisauria&langs_count=8&theme=onedark)](https://github.com/amisauria/github-readme-stats)
   
