@@ -16,7 +16,7 @@
   
 ---
 <div align="left">
-    <h3>🛠️ Languages and Tools:</h3>
+    <h3>### :hammer_and_wrench: Languages and Tools:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" witdh="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" witdh="40" height="40"/>&nbsp;
@@ -30,7 +30,7 @@
   
 ### 📊 My Stats :
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amisauria&theme=monokai&hide_border=true&border_radius=6&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amisauria&theme=dark&background=000000)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amisauria&langs_count=8&theme=onedark)](https://github.com/amisauria/github-readme-stats)
   
