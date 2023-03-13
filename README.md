@@ -29,10 +29,10 @@
   
   
 ### 📊 My Stats :
- 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amisauria&theme=jolly&hide_border=true&border_radius=17.3&mode=weekly)](https://git.io/streak-stats)
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=amisauria)](https://git.io/streak-stats)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=amisauria&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=amisauria&theme=default" />
+</picture>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amisauria&langs_count=8&theme=onedark)](https://github.com/amisauria/github-readme-stats)
   
