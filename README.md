@@ -35,5 +35,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmyLovelace&langs_count=8&theme=onedark)](https://github.com/amisauria/github-readme-stats)
   
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=AmyLovelace
-&theme=onedark)](https://github.com/AmyLovelace/github-profile-trophy)
+
