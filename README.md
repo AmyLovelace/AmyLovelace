@@ -8,7 +8,7 @@
   ---
   
 ### ⚡About Me :
--🌱 currently learning **js css python**
+-🌱 currently learning ** JAVA **
   
 -👩🏻‍💻Ask me about web development
 
