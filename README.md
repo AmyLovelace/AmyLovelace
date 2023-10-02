@@ -1,4 +1,4 @@
-🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆
+
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/DgLsbUL7SG3kI/giphy.gif" width="700" height="400"/>
 <h1 align="center">✌️Hi! i´m Amy</h1>
@@ -36,6 +36,8 @@
   
   
 ### 📊 My Stats :
+[![committers.top badge](https://user-badge.committers.top/chile/AmyLovelace.svg)](https://user-badge.committers.top/chile/AmyLovelace)
+
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AmyLovelace&mode=weekly&theme=radical&background=000000)](https://git.io/streak-stats)
   
