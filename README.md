@@ -52,7 +52,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AmyLovelace&mode=weekly&theme=radical&background=000000)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmyLovelace&langs_count=12&theme=onedark)](https://github.com/amisauria/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmyLovelace&langs_count=10&theme=onedark)](https://github.com/amisauria/github-readme-stats)
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=AmyLovelace&theme=onedark)](https://github.com/AmyLovelace/github-profile-trophy)
   
