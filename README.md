@@ -37,12 +37,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40" /> 
 
   </div> 
-   <div> 
-      [![](https://visitcount.itsvg.in/api?id=AmyLovelace&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-  </div> 
-
-
-
+    
 
 
 
@@ -52,6 +47,8 @@
   
   
 ### 📊 My Stats :
+[![](https://visitcount.itsvg.in/api?id=AmyLovelace&&icon=6&color=0)](https://visitcount.itsvg.in)
+
 [![committers.top badge](https://user-badge.committers.top/chile/AmyLovelace.svg)](https://user-badge.committers.top/chile/AmyLovelace)
 
 
