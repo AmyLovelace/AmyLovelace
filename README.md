@@ -36,7 +36,12 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="materialui" alt="materialui" width="40" height="40" /> 
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40" /> 
 
-  </div>  
+  </div> 
+   <div> 
+      [![](https://visitcount.itsvg.in/api?id=AmyLovelace&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+  </div> 
+
+
 
 
 
