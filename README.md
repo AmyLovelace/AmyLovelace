@@ -49,12 +49,12 @@
 ### 📊 My Stats :
 <div align="center">
   
-  [![](https://visitcount.itsvg.in/api?id=AmyLovelace&&icon=6&color=0)](https://visitcount.itsvg.in)
   
 </div>
 <div align="center">
 
-[![committers.top badge](https://user-badge.committers.top/chile/AmyLovelace.svg)](https://user-badge.committers.top/chile/AmyLovelace)
+  [![](https://visitcount.itsvg.in/api?id=AmyLovelace&&icon=6&color=0)](https://visitcount.itsvg.in)  [![committers.top badge](https://user-badge.committers.top/chile/AmyLovelace.svg)](https://user-badge.committers.top/chile/AmyLovelace)
+
 
 </div>
 
