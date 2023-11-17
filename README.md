@@ -66,7 +66,7 @@
 
 <div align="center">
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmyLovelace&langs_count=9&theme=dracula&hide=Swift,c%2B%2B,CMake,Kotlin,C,Shell&layout=compact&hide_progress=true)](https://github.com/amisauria/github-readme-stats)[![trophy](https://github-profile-trophy.vercel.app/?username=AmyLovelace&theme=dracula&row=2&column=3&title=MultiLanguage,Commits,Repositories,Followers,Stars,Experience&no-frame=true)](https://github.com/AmyLovelace/github-profile-trophy)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmyLovelace&langs_count=9&theme=dracula&hide=Swift,c%2B%2B,CMake,Kotlin,C,Shell&layout=compact&hide_progress=false)](https://github.com/amisauria/github-readme-stats)[![trophy](https://github-profile-trophy.vercel.app/?username=AmyLovelace&theme=dracula&row=2&column=3&title=MultiLanguage,Commits,Repositories,Followers,Stars,Experience&no-frame=true)](https://github.com/AmyLovelace/github-profile-trophy)
 
  
 </div>
