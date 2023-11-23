@@ -1,6 +1,10 @@
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/DgLsbUL7SG3kI/giphy.gif" width="700" height="400"/>
+ <picture>
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
+  <img src="./profile-3d-contrib/profile-custom-en.svg">
+ </picture>
+
 <h1 align="center">✌️Hi! i´m Amy</h1>
 <h3 align="center">An unstopable learner from Chile 📌 working towards expanding my set of skills and languages 
 <hr>
