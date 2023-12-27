@@ -12,7 +12,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=300&duration=3000&pause=10&color=CB03F7&random=false&width=435&lines=Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard;Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big)](https://git.io/typing-svg)   
   
 ### ⚡About Me :
--🌱 currently learning ** JAVA **
+-🌱 currently learning ** Java and SpringBoot **
   
 -👩🏻‍💻Ask me about web development
 
