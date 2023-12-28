@@ -1,43 +1,35 @@
-[{
-	"type": "normal",
-	"fileName": "profile-custom-en.svg",
-	"backgroundColor": "#00000f",
-	"foregroundColor": "#eeeeff",
-	"strongColor": "rgb(255, 200, 55)",
-	"weakColor": "#aaaaaa",
-	"radarColor": "rgb(255, 200, 55)",
-	"growingAnimation": false,
-	"contribColors": [
-		"rgb(25, 60, 130)",
-		"rgb(25, 90, 210)",
-		"rgb(25, 120, 220)",
-		"rgb(25, 150, 230)",
-		"rgb(25, 165, 240)"
-	]
-},
-{
-	"type": "normal",
-	"fileName": "profile-night-view.svg",
-	"backgroundColor": "#00000f",
-	"foregroundColor": "#eeeeff",
-	"strongColor": "rgb(255, 200, 55)",
-	"weakColor": "#aaaaaa",
-	"radarColor": "rgb(255, 200, 55)",
-	"growingAnimation": false,
-	"contribColors": [
-		"rgb(25, 60, 130)",
-		"rgb(25, 90, 210)",
-		"rgb(25, 120, 220)",
-		"rgb(25, 150, 230)",
-		"rgb(25, 165, 240)"
-	],
-	"l10n": {
-		"commit": "Commit",
-		"repo": "Repositorios",
-		"review": "Revisiones",
-		"pullreq": "Pull/Req",
-		"issue": "Issues",
-		"contrib": "contribuciones"
-	}
-}
-]
+[
+  {
+    "type": "normal",
+    "fileName": "profile-custom-en.svg",
+    "backgroundColor": "#000000", // Fondo negro
+    "foregroundColor": "#eeeeff",
+    "strongColor": "rgb(255, 200, 55)",
+    "weakColor": "#aaaaaa",
+    "radarColor": "rgb(255, 200, 55)",
+    "growingAnimation": false,
+    "contribColors": [
+      "rgb(255, 182, 193)", // Rosa claro
+      "rgb(255, 135, 160)",
+      "rgb(255, 105, 145)",
+      "rgb(255, 74, 128)",
+      "rgb(255, 52, 115)"
+    ]
+  },
+  {
+    "type": "normal",
+    "fileName": "profile-night-view.svg",
+    "backgroundColor": "#000000", // Fondo negro
+    "foregroundColor": "#eeeeff",
+    "strongColor": "rgb(255, 200, 55)",
+    "weakColor": "#aaaaaa",
+    "radarColor": "rgb(255, 200, 55)",
+    "growingAnimation": false,
+    "contribColors": [
+      "rgb(255, 182, 193)", // Rosa claro
+      "rgb(255, 135, 160)",
+      "rgb(255, 105, 145)",
+      "rgb(255, 74, 128)",
+      "rgb(255, 52, 115)"
+    ],
+    "l10n":
