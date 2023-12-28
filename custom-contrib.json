@@ -32,4 +32,13 @@
       "rgb(255, 74, 128)",
       "rgb(255, 52, 115)"
     ],
-    "l10n":
+    "l10n": {
+		"commit": "Commit",
+		"repo": "Repositorios",
+		"review": "Revisiones",
+		"pullreq": "Pull/Req",
+		"issue": "Issues",
+		"contrib": "contribuciones"
+	}
+}
+]
