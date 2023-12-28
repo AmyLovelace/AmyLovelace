@@ -6,7 +6,7 @@
 	"strongColor": "rgb(255, 200, 55)",
 	"weakColor": "#aaaaaa",
 	"radarColor": "rgb(255, 200, 55)",
-	"growingAnimation": false,
+	"growingAnimation": true,
 	"contribColors": [
 		"rgb(255, 182, 193)", 
       		"rgb(255, 135, 160)",
@@ -23,7 +23,7 @@
 	"strongColor": "rgb(255, 200, 55)",
 	"weakColor": "#aaaaaa",
 	"radarColor": "rgb(255, 200, 55)",
-	"growingAnimation": false,
+	"growingAnimation": true,
 	"contribColors": [
       		"rgb(255, 182, 193)", 
       		"rgb(255, 135, 160)",
