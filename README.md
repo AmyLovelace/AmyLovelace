@@ -16,6 +16,8 @@
   
 -👩🏻‍💻Ask me about web development
 
+- interested in mobile development
+
 -🐈fun fact : i enjoy true crime documentaries , conversations about cats and a frantic tea drinker. 
   
 ---
