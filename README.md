@@ -1,23 +1,34 @@
-# ✌️ Hi! I'm Amy
 
-I'm an unstoppable learner from Chile 🇨🇱 working towards expanding my set of skills and languages.
+<div id="header" align="center">
+ <picture>
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
+  <img src="./profile-3d-contrib/profile-custom-en.svg">
+ </picture>
+
+<h1 align="center">✌️Hi! i´m Amy</h1>
+<h3 align="center">An unstopable learner from Chile 📌 working towards expanding my set of skills and languages 
+<hr>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=300&duration=3000&color=CB03F7&random=false&width=435&lines=Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard;Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big)](https://git.io/typing-svg)   
+
+<div align="left">
+⚡About Me :
+
+-🌱 currently learning ** Java and SpringBoot **
+  
+-👩🏻‍💻Ask me about web development
+
+-interested in mobile development
+
+-🐈fun fact : i enjoy true crime documentaries , conversations about cats and a frantic tea drinker. 
+  
+
+</div>
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=300&duration=3000&color=CB03F7&random=false&width=435&lines=Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard;Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big)
 
-## ⚡ About Me
 
-- 🌱 Currently learning **Java and SpringBoot**
-- 👩🏻‍💻 Ask me about web development
-- Interested in mobile development
-- 🐈 Fun fact: I enjoy true crime documentaries, conversations about cats, and a frantic tea drinker.
-
-## 🛠️ Languages and Tools
-
-<p align="center">
- <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,idea,vscode,replit,docker,bootstrap,css,gradle,html,express,ts,java,js,kafka,materialui,maven,mongodb,mysql,nodejs,postgres,py,react,spring,vite" />
- </a>
-</p>
 
 ## 📊 My Stats
 
