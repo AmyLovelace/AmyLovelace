@@ -10,17 +10,23 @@
 <hr>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=300&duration=3000&color=CB03F7&random=false&width=435&lines=Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard;Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big)](https://git.io/typing-svg)   
-  
-### ⚡About Me :
+
+<div align="left">
+⚡About Me :
+
 -🌱 currently learning ** Java and SpringBoot **
   
 -👩🏻‍💻Ask me about web development
 
-- interested in mobile development
+-interested in mobile development
 
 -🐈fun fact : i enjoy true crime documentaries , conversations about cats and a frantic tea drinker. 
   
+
+</div>
+
 ---
+
 <div align="left">
 :hammer_and_wrench: Languages and Tools:
 
@@ -45,7 +51,7 @@
 </div>
 <div align="center">
 
-  [![](https://visitcount.itsvg.in/api?id=AmyLovelace&&icon=6&color=0)](https://visitcount.itsvg.in)  [![committers.top badge](https://user-badge.committers.top/chile/AmyLovelace.svg)](https://user-badge.committers.top/chile/AmyLovelace)
+ [![](https://visitcount.itsvg.in/api?id=AmyLovelace&&icon=6&color=0)](https://visitcount.itsvg.in)  [![committers.top badge](https://user-badge.committers.top/chile/AmyLovelace.svg)](https://user-badge.committers.top/chile/AmyLovelace)
 
 
 </div>
