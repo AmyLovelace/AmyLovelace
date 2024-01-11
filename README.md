@@ -6,7 +6,7 @@
  </picture>
 
 <h1 align="center">✌️Hi! i´m Amy</h1>
-<h3 align="center">An unstopable learner from Chile 📌 working towards expanding my set of skills and languages 
+<h3 align="center">An unstopable learner from Chile 📌 working towards expanding my set of skills  
 <hr>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=300&duration=3000&color=CB03F7&random=false&width=435&lines=Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard;Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big)](https://git.io/typing-svg)   
