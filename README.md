@@ -19,7 +19,7 @@
 <br></br>
 </div>
 
--🌱 currently learning ** Functional programming **
+-🌱 currently learning ** Functional programming with azure functions **
   
 -👩🏻‍💻Ask me about web development
 
