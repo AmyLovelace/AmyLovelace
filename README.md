@@ -20,7 +20,9 @@
 </div>
 
 -🌱 currently learning ** Functional programming with azure functions **
-  
+
+-⚔️ im a firm believer that hard work and dreaming big is the key to success
+
 -👩🏻‍💻Ask me about web development
 
 -interested in mobile development
