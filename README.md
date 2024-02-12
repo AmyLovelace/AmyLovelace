@@ -33,10 +33,6 @@
 </div>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=300&duration=3000&color=CB03F7&random=false&width=435&lines=Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard+Work+hard;Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big+Dream+big)
-
-
-
 ## 📊 My Stats
 
 [![](https://visitcount.itsvg.in/api?id=AmyLovelace&&icon=6&color=0)](https://visitcount.itsvg.in)
