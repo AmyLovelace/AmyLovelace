@@ -19,7 +19,7 @@
 <br></br>
 </div>
 
--🌱 currently learning ** Functional programming with azure functions **
+-🌱 currently learning ** Functional programming and SSR with nextJS@14 **
 
 -⚔️ im a firm believer that hard work and dreaming big is the key to success
 
