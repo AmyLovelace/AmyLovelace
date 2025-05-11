@@ -16,6 +16,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN}}
           SETTING_JSON: custom-contrib.json
           USERNAME: amylovelace
+      - name: Append to log file
+        run: echo "Generated on $(date -u)" >> log.txt
       - name: Commit & Push
         run: |
           git config user.name github-actions
