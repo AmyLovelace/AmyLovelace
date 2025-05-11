@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
  <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-custom-en.svg">
+  <source media="(prefers-color-scheme: light)" src="/profile-3d-contrib/profile-custom-en.svg">
   <img src="./profile-3d-contrib/profile-night-green.svg">
  </picture>
 
