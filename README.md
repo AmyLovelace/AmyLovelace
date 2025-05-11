@@ -1,8 +1,8 @@
 
 <div id="header" align="center">
  <picture>
-  <source media="(prefers-color-scheme: light)" src="/profile-3d-contrib/profile-custom-en.svg">
-  <img src="./profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-custom-en.svg">
+  <img src="./profile-3d-contrib/profile-custom-en.svg">
  </picture>
 
 <h1 align="center">✌️Hi! i´m Amy</h1>
