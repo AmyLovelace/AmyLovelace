@@ -1,8 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 00 * * *"
+  schedule:
+    - cron: "0 0 * * *" # 00:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -11,17 +11,21 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN}}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SETTING_JSON: custom-contrib.json
           USERNAME: amylovelace
-      - name: Append to log file
-        run: echo "Generated on $(date -u)" >> log.txt
+
+      - name: Overwrite log.txt with new timestamp
+        run: echo "Generated on $(date -u +'%Y-%m-%dT%H:%M:%SZ')" > log.txt
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add .
-          git commit -m "generated"
+          git checkout main  # Asegúrate de que sea tu rama por defecto
+          git add log.txt
+          git commit -m "generated $(date -u +'%Y-%m-%d')"
           git push
