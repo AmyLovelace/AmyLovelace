@@ -23,8 +23,8 @@ jobs:
 
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name AmyLovelace
+          git config user.email amanecer.luz.cabrera@gmail.com
           git checkout main  # Asegúrate de que sea tu rama por defecto
           git add log.txt
           git commit -m "generated $(date -u +'%Y-%m-%d')"
