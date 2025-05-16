@@ -19,7 +19,8 @@ jobs:
           USERNAME: amylovelace
 
       - name: Overwrite log.txt with new timestamp
-        run: echo "Generated on $(date -u +'%Y-%m-%dT%H:%M:%SZ')" > log.txt
+        run: echo "Fetching Kanye quote..."
+             node -e "import('node-fetch').then(({default:fetch}) => fetch('https://api.kanye.rest').then(r => r.json()).then(data => require('fs').writeFileSync('log.txt', data.quote)))"
 
       - name: Commit & Push
         run: |
