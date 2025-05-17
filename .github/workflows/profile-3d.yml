@@ -28,7 +28,7 @@ jobs:
           fetch('https://api.kanye.rest')
             .then(res => res.json())
             .then(data => {
-              fs.writeFileSync('log.txt', data.quote);
+              fs.appendFileSync('log.txt', data.quote);
               console.log('Quote written to log.txt:', data.quote);
             });" > fetch-kanye.js
           node fetch-kanye.js
