@@ -37,8 +37,8 @@ jobs:
           git config user.name "AmyLovelace"
           git config user.email "amanecer.luz.cabrera@gmail.com"
           git checkout main
-          git pull --rebase origin main
           git add log.txt
           git commit -m "generated $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
+          git pull --rebase origin main
           git push
     
