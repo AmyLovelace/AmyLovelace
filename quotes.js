@@ -37,6 +37,7 @@ const quotes = [
   "I leave my emojis bart Simpson color",
   "Manga all day",
   "I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI",
-  "You basically can say anything to someone on an email or text as long as you put LOL at the end."
+  "You basically can say anything to someone on an email or text as long as you put LOL at the end.",
+  "I am running for President of the United States"
 ];
 module.exports = quotes;
