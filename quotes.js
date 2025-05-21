@@ -30,6 +30,7 @@ const quotes = [
   "I honestly need all my Royeres to be museum quality... if I see a fake Royere Ima have to Rick James your couch",
   "I am Warhol. I am the No. 1 most impactful artist of our generation. I am Shakespeare in the flesh.",
   "There are people sleeping in parking lots",
-  "I channel Will Ferrell when I'm at the daddy daughter dances"
+  "I channel Will Ferrell when I'm at the daddy daughter dances",
+  "We will cure hunger"
 ];
 module.exports = quotes;
