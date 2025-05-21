@@ -40,6 +40,7 @@ const quotes = [
   "You basically can say anything to someone on an email or text as long as you put LOL at the end.",
   "I am running for President of the United States",
   "People always say that you can't please everybody. I think that's a cop-out. Why not attempt it? Cause think of all the people that you will please if you try.",
-  "I make awesome decisions in bike stores!!!"
+  "I make awesome decisions in bike stores!!!",
+  "We are here to complete the revolution. We are building the future"
 ];
 module.exports = quotes;
