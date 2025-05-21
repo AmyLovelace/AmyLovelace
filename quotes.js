@@ -31,6 +31,7 @@ const quotes = [
   "I am Warhol. I am the No. 1 most impactful artist of our generation. I am Shakespeare in the flesh.",
   "There are people sleeping in parking lots",
   "I channel Will Ferrell when I'm at the daddy daughter dances",
-  "We will cure hunger"
+  "We will cure hunger",
+  "I give up drinking every week"
 ];
 module.exports = quotes;
