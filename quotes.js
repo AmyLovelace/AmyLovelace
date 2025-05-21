@@ -43,6 +43,7 @@ const quotes = [
   "I make awesome decisions in bike stores!!!",
   "We are here to complete the revolution. We are building the future",
   "You can't look at a glass half full or empty if it's overflowing.",
-  "Believe in your flyness...conquer your shyness."
+  "Believe in your flyness...conquer your shyness.",
+  "All you have to be is yourself"
 ];
 module.exports = quotes;
