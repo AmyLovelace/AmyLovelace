@@ -18,6 +18,7 @@ const quotes = [
   "Speak God's truth to power",
   "Fur pillows are hard to actually sleep on",
   "I don't expect to be understood at all.",
-  "We must form a union. We must unify"
+  "We must form a union. We must unify",
+  "I am one of the most famous people on the planet"
 ];
 module.exports = quotes;
