@@ -32,6 +32,7 @@ const quotes = [
   "There are people sleeping in parking lots",
   "I channel Will Ferrell when I'm at the daddy daughter dances",
   "We will cure hunger",
-  "I give up drinking every week"
+  "I give up drinking every week",
+  "My greatest award is what I'm about to do."
 ];
 module.exports = quotes;
