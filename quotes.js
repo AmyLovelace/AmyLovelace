@@ -20,6 +20,7 @@ const quotes = [
   "I don't expect to be understood at all.",
   "We must form a union. We must unify",
   "I am one of the most famous people on the planet",
-  "I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying."
+  "I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying.",
+  "My dad got me a drone for Christmas"
 ];
 module.exports = quotes;
