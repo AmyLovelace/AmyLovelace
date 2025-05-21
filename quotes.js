@@ -10,6 +10,7 @@ const quotes = [
   "I feel like I'm too busy writing history to read it.",
   "I care. I care about everything. Sometimes not giving a f#%k is caring the most.",
   "I've known my mom since I was zero years old. She is quite dope.",
-  "The world needs more Joy... this idea is super fresh"
+  "The world needs more Joy... this idea is super fresh",
+  "I feel calm but energized"
 ];
 module.exports = quotes;
