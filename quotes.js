@@ -33,6 +33,7 @@ const quotes = [
   "I channel Will Ferrell when I'm at the daddy daughter dances",
   "We will cure hunger",
   "I give up drinking every week",
-  "My greatest award is what I'm about to do."
+  "My greatest award is what I'm about to do.",
+  "I leave my emojis bart Simpson color"
 ];
 module.exports = quotes;
