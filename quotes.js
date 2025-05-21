@@ -25,6 +25,7 @@ const quotes = [
   "Trust me ... I won't stop",
   "Everything you do in life stems from either fear or love",
   "All the musicians will be free",
-  "Keep squares out yo circle"
+  "Keep squares out yo circle",
+  "Ma$e is one of my favorite rappers and I based a lot of my flows off of him"
 ];
 module.exports = quotes;
