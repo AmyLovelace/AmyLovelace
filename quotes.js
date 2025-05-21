@@ -27,6 +27,7 @@ const quotes = [
   "All the musicians will be free",
   "Keep squares out yo circle",
   "Ma$e is one of my favorite rappers and I based a lot of my flows off of him",
-  "I honestly need all my Royeres to be museum quality... if I see a fake Royere Ima have to Rick James your couch"
+  "I honestly need all my Royeres to be museum quality... if I see a fake Royere Ima have to Rick James your couch",
+  "I am Warhol. I am the No. 1 most impactful artist of our generation. I am Shakespeare in the flesh."
 ];
 module.exports = quotes;
