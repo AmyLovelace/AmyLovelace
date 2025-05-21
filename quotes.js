@@ -21,6 +21,7 @@ const quotes = [
   "We must form a union. We must unify",
   "I am one of the most famous people on the planet",
   "I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying.",
-  "My dad got me a drone for Christmas"
+  "My dad got me a drone for Christmas",
+  "Trust me ... I won't stop"
 ];
 module.exports = quotes;
