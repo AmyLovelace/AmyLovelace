@@ -22,6 +22,7 @@ const quotes = [
   "I am one of the most famous people on the planet",
   "I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying.",
   "My dad got me a drone for Christmas",
-  "Trust me ... I won't stop"
+  "Trust me ... I won't stop",
+  "Everything you do in life stems from either fear or love"
 ];
 module.exports = quotes;
