@@ -34,6 +34,7 @@ const quotes = [
   "We will cure hunger",
   "I give up drinking every week",
   "My greatest award is what I'm about to do.",
-  "I leave my emojis bart Simpson color"
+  "I leave my emojis bart Simpson color",
+  "Manga all day"
 ];
 module.exports = quotes;
