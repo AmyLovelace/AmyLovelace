@@ -11,6 +11,7 @@ const quotes = [
   "I care. I care about everything. Sometimes not giving a f#%k is caring the most.",
   "I've known my mom since I was zero years old. She is quite dope.",
   "The world needs more Joy... this idea is super fresh",
-  "I feel calm but energized"
+  "I feel calm but energized",
+  "Distraction is the enemy of vision"
 ];
 module.exports = quotes;
