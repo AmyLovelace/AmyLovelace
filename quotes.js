@@ -42,6 +42,7 @@ const quotes = [
   "People always say that you can't please everybody. I think that's a cop-out. Why not attempt it? Cause think of all the people that you will please if you try.",
   "I make awesome decisions in bike stores!!!",
   "We are here to complete the revolution. We are building the future",
-  "You can't look at a glass half full or empty if it's overflowing."
+  "You can't look at a glass half full or empty if it's overflowing.",
+  "Believe in your flyness...conquer your shyness."
 ];
 module.exports = quotes;
