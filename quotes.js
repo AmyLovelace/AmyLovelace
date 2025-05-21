@@ -17,6 +17,7 @@ const quotes = [
   "Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?",
   "Speak God's truth to power",
   "Fur pillows are hard to actually sleep on",
-  "I don't expect to be understood at all."
+  "I don't expect to be understood at all.",
+  "We must form a union. We must unify"
 ];
 module.exports = quotes;
