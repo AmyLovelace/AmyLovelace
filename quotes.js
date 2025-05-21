@@ -44,6 +44,7 @@ const quotes = [
   "We are here to complete the revolution. We are building the future",
   "You can't look at a glass half full or empty if it's overflowing.",
   "Believe in your flyness...conquer your shyness.",
-  "All you have to be is yourself"
+  "All you have to be is yourself",
+  "We all self-conscious. I'm just the first to admit it."
 ];
 module.exports = quotes;
