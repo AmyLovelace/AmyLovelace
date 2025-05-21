@@ -13,6 +13,7 @@ const quotes = [
   "The world needs more Joy... this idea is super fresh",
   "I feel calm but energized",
   "Distraction is the enemy of vision",
-  "The media tries to kill our heroes one at a time"
+  "The media tries to kill our heroes one at a time",
+  "Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"
 ];
 module.exports = quotes;
