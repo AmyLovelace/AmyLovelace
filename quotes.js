@@ -24,6 +24,7 @@ const quotes = [
   "My dad got me a drone for Christmas",
   "Trust me ... I won't stop",
   "Everything you do in life stems from either fear or love",
-  "All the musicians will be free"
+  "All the musicians will be free",
+  "Keep squares out yo circle"
 ];
 module.exports = quotes;
