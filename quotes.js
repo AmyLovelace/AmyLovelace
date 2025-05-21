@@ -35,6 +35,7 @@ const quotes = [
   "I give up drinking every week",
   "My greatest award is what I'm about to do.",
   "I leave my emojis bart Simpson color",
-  "Manga all day"
+  "Manga all day",
+  "I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"
 ];
 module.exports = quotes;
