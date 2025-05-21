@@ -61,7 +61,7 @@ jobs:
           git config user.email "amanecer.luz.cabrera@gmail.com"
           git checkout main
           git fetch origin
-          git add log.txt profile-3d-contrib/profile-custom-en.svg
+          git add quotes.js profile-3d-contrib/profile-custom-en.svg
           git commit -m "generated $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
           git pull --rebase origin main
           git push
