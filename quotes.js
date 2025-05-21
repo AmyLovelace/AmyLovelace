@@ -14,6 +14,7 @@ const quotes = [
   "I feel calm but energized",
   "Distraction is the enemy of vision",
   "The media tries to kill our heroes one at a time",
-  "Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"
+  "Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?",
+  "Speak God's truth to power"
 ];
 module.exports = quotes;
