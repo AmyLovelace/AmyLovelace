@@ -4,6 +4,7 @@ const quotes = [
   "Sometimes I push the door close button on people running towards the elevator. I just need my own elevator sometimes. My sanctuary.",
   "George Bush doesn't care about black people",
   "I need an army of angels to cover me while I pull this sword out of the stone",
-  "I feel like me and Taylor might still have sex"
+  "I feel like me and Taylor might still have sex",
+  "We have to evolve"
 ];
 module.exports = quotes;
