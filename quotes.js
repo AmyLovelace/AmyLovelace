@@ -8,6 +8,7 @@ const quotes = [
   "We have to evolve",
   "I hate when I'm on a flight and I wake up with a water bottle next to me like oh great now I gotta be responsible for this water bottle",
   "I feel like I'm too busy writing history to read it.",
-  "I care. I care about everything. Sometimes not giving a f#%k is caring the most."
+  "I care. I care about everything. Sometimes not giving a f#%k is caring the most.",
+  "I've known my mom since I was zero years old. She is quite dope."
 ];
 module.exports = quotes;
