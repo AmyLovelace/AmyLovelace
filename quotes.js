@@ -12,6 +12,7 @@ const quotes = [
   "I've known my mom since I was zero years old. She is quite dope.",
   "The world needs more Joy... this idea is super fresh",
   "I feel calm but energized",
-  "Distraction is the enemy of vision"
+  "Distraction is the enemy of vision",
+  "The media tries to kill our heroes one at a time"
 ];
 module.exports = quotes;
