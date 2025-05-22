@@ -72,6 +72,7 @@ const quotes = [
   "Winning is the only option",
   "For me giving up is way harder than trying.",
   "I really love my Tesla. I'm in the future. Thank you Elon.",
-  "Tweeting is legal and also therapeutic"
+  "Tweeting is legal and also therapeutic",
+  "Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."
 ];
 module.exports = quotes;
