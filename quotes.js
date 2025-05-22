@@ -55,6 +55,7 @@ const quotes = [
   "People tried to talk me out of running for President. Never let weak controlling people kill your spirit",
   "Empathy is the glue",
   "If I got any cooler I would freeze to death",
-  "I hear people say this person is cool and this person is not cool. People are cool. Man has never invented anything as awesome as a an actual person but sometimes we value the objects we create over life itself"
+  "I hear people say this person is cool and this person is not cool. People are cool. Man has never invented anything as awesome as a an actual person but sometimes we value the objects we create over life itself",
+  "Pulling up in the may bike"
 ];
 module.exports = quotes;
