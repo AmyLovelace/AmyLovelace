@@ -67,6 +67,7 @@ const quotes = [
   "I'm going to personally see to it that Taylor Swift gets her masters back. Scooter is a close family friend",
   "There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness",
   "I watch Bladerunner on repeat",
-  "Man... whatever happened to my antique fish tank?"
+  "Man... whatever happened to my antique fish tank?",
+  "I still think I am the greatest."
 ];
 module.exports = quotes;
