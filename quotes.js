@@ -69,6 +69,7 @@ const quotes = [
   "I watch Bladerunner on repeat",
   "Man... whatever happened to my antique fish tank?",
   "I still think I am the greatest.",
-  "Winning is the only option"
+  "Winning is the only option",
+  "For me giving up is way harder than trying."
 ];
 module.exports = quotes;
