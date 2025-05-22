@@ -50,6 +50,7 @@ const quotes = [
   "Shut the fuck up I will fucking laser you with alien fucking eyes and explode your fucking head",
   "I'd like to meet with Tim Cook. I got some ideas",
   "Style is genderless",
-  "If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed."
+  "If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed.",
+  "I wish I had a friend like me"
 ];
 module.exports = quotes;
