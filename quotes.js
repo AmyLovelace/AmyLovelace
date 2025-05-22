@@ -68,6 +68,7 @@ const quotes = [
   "There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness",
   "I watch Bladerunner on repeat",
   "Man... whatever happened to my antique fish tank?",
-  "I still think I am the greatest."
+  "I still think I am the greatest.",
+  "Winning is the only option"
 ];
 module.exports = quotes;
