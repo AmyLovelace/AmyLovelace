@@ -71,6 +71,7 @@ const quotes = [
   "I still think I am the greatest.",
   "Winning is the only option",
   "For me giving up is way harder than trying.",
-  "I really love my Tesla. I'm in the future. Thank you Elon."
+  "I really love my Tesla. I'm in the future. Thank you Elon.",
+  "Tweeting is legal and also therapeutic"
 ];
 module.exports = quotes;
