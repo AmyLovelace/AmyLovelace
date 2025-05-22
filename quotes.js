@@ -66,6 +66,7 @@ const quotes = [
   "I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together",
   "I'm going to personally see to it that Taylor Swift gets her masters back. Scooter is a close family friend",
   "There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness",
-  "I watch Bladerunner on repeat"
+  "I watch Bladerunner on repeat",
+  "Man... whatever happened to my antique fish tank?"
 ];
 module.exports = quotes;
