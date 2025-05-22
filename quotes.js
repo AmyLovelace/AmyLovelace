@@ -49,6 +49,7 @@ const quotes = [
   "One of my favorite of many things about what the Trump hat represents to me is that people can't tell me what to do because I'm black",
   "Shut the fuck up I will fucking laser you with alien fucking eyes and explode your fucking head",
   "I'd like to meet with Tim Cook. I got some ideas",
-  "Style is genderless"
+  "Style is genderless",
+  "If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed."
 ];
 module.exports = quotes;
