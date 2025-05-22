@@ -47,6 +47,7 @@ const quotes = [
   "All you have to be is yourself",
   "We all self-conscious. I'm just the first to admit it.",
   "One of my favorite of many things about what the Trump hat represents to me is that people can't tell me what to do because I'm black",
-  "Shut the fuck up I will fucking laser you with alien fucking eyes and explode your fucking head"
+  "Shut the fuck up I will fucking laser you with alien fucking eyes and explode your fucking head",
+  "I'd like to meet with Tim Cook. I got some ideas"
 ];
 module.exports = quotes;
