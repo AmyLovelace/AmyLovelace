@@ -59,6 +59,7 @@ const quotes = [
   "Pulling up in the may bike",
   "Only free thinkers",
   "For me to say I wasn't a genius I'd just be lying to you and to myself",
-  "There's a crying need for civility across the board. We need to and will come together in the name of Jesus."
+  "There's a crying need for civility across the board. We need to and will come together in the name of Jesus.",
+  "Who made up the term major label in the first place???"
 ];
 module.exports = quotes;
