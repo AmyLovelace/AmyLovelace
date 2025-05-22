@@ -61,6 +61,7 @@ const quotes = [
   "For me to say I wasn't a genius I'd just be lying to you and to myself",
   "There's a crying need for civility across the board. We need to and will come together in the name of Jesus.",
   "Who made up the term major label in the first place???",
-  "We as a people will heal. We will insure the well being of each other"
+  "We as a people will heal. We will insure the well being of each other",
+  "I want the world to be better! All I want is positive! All I want is dopeness!"
 ];
 module.exports = quotes;
