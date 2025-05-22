@@ -58,6 +58,7 @@ const quotes = [
   "I hear people say this person is cool and this person is not cool. People are cool. Man has never invented anything as awesome as a an actual person but sometimes we value the objects we create over life itself",
   "Pulling up in the may bike",
   "Only free thinkers",
-  "For me to say I wasn't a genius I'd just be lying to you and to myself"
+  "For me to say I wasn't a genius I'd just be lying to you and to myself",
+  "There's a crying need for civility across the board. We need to and will come together in the name of Jesus."
 ];
 module.exports = quotes;
