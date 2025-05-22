@@ -57,6 +57,7 @@ const quotes = [
   "If I got any cooler I would freeze to death",
   "I hear people say this person is cool and this person is not cool. People are cool. Man has never invented anything as awesome as a an actual person but sometimes we value the objects we create over life itself",
   "Pulling up in the may bike",
-  "Only free thinkers"
+  "Only free thinkers",
+  "For me to say I wasn't a genius I'd just be lying to you and to myself"
 ];
 module.exports = quotes;
