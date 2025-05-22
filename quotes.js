@@ -63,6 +63,7 @@ const quotes = [
   "Who made up the term major label in the first place???",
   "We as a people will heal. We will insure the well being of each other",
   "I want the world to be better! All I want is positive! All I want is dopeness!",
-  "I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together"
+  "I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together",
+  "I'm going to personally see to it that Taylor Swift gets her masters back. Scooter is a close family friend"
 ];
 module.exports = quotes;
