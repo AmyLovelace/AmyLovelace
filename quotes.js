@@ -70,6 +70,7 @@ const quotes = [
   "Man... whatever happened to my antique fish tank?",
   "I still think I am the greatest.",
   "Winning is the only option",
-  "For me giving up is way harder than trying."
+  "For me giving up is way harder than trying.",
+  "I really love my Tesla. I'm in the future. Thank you Elon."
 ];
 module.exports = quotes;
