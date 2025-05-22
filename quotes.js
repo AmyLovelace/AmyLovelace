@@ -51,6 +51,7 @@ const quotes = [
   "I'd like to meet with Tim Cook. I got some ideas",
   "Style is genderless",
   "If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed.",
-  "I wish I had a friend like me"
+  "I wish I had a friend like me",
+  "People tried to talk me out of running for President. Never let weak controlling people kill your spirit"
 ];
 module.exports = quotes;
