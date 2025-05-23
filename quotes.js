@@ -79,6 +79,7 @@ const quotes = [
   "We will heal. We will cure.",
   "We came into a broken world. And we're the cleanup crew.",
   "I'm a creative genius",
-  "Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth"
+  "Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth",
+  "I'm on the pursuit of awesomeness, excellence is the bare minimum."
 ];
 module.exports = quotes;
