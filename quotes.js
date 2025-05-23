@@ -89,6 +89,7 @@ const quotes = [
   "For me, money is not my definition of success. Inspiring people is a definition of success",
   "The world is our office",
   "Just stop lying about shit. Just stop lying.",
-  "We will change the paradigm"
+  "We will change the paradigm",
+  "My mother in law Kris Jenner ... makes the best music playlist"
 ];
 module.exports = quotes;
