@@ -77,6 +77,7 @@ const quotes = [
   "There's so many lonely emojis man",
   "Let's be like water",
   "We will heal. We will cure.",
-  "We came into a broken world. And we're the cleanup crew."
+  "We came into a broken world. And we're the cleanup crew.",
+  "I'm a creative genius"
 ];
 module.exports = quotes;
