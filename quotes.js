@@ -75,6 +75,7 @@ const quotes = [
   "Tweeting is legal and also therapeutic",
   "Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun.",
   "There's so many lonely emojis man",
-  "Let's be like water"
+  "Let's be like water",
+  "We will heal. We will cure."
 ];
 module.exports = quotes;
