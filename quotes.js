@@ -84,6 +84,7 @@ const quotes = [
   "The thought police want to suppress freedom of thought",
   "I was just speaking with someone that told me their life story and they used to be homeless.",
   "2024",
-  "My mama was a' English teacher. I know how to use correct English but sometimes I just don't feel like it aaaand I ain't got to"
+  "My mama was a' English teacher. I know how to use correct English but sometimes I just don't feel like it aaaand I ain't got to",
+  "My greatest pain in life is that I will never be able to see myself perform live."
 ];
 module.exports = quotes;
