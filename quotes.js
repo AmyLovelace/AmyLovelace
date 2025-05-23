@@ -88,6 +88,7 @@ const quotes = [
   "My greatest pain in life is that I will never be able to see myself perform live.",
   "For me, money is not my definition of success. Inspiring people is a definition of success",
   "The world is our office",
-  "Just stop lying about shit. Just stop lying."
+  "Just stop lying about shit. Just stop lying.",
+  "We will change the paradigm"
 ];
 module.exports = quotes;
