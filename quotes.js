@@ -74,6 +74,7 @@ const quotes = [
   "I really love my Tesla. I'm in the future. Thank you Elon.",
   "Tweeting is legal and also therapeutic",
   "Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun.",
-  "There's so many lonely emojis man"
+  "There's so many lonely emojis man",
+  "Let's be like water"
 ];
 module.exports = quotes;
