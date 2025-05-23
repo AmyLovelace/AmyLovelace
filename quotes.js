@@ -80,6 +80,7 @@ const quotes = [
   "We came into a broken world. And we're the cleanup crew.",
   "I'm a creative genius",
   "Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth",
-  "I'm on the pursuit of awesomeness, excellence is the bare minimum."
+  "I'm on the pursuit of awesomeness, excellence is the bare minimum.",
+  "The thought police want to suppress freedom of thought"
 ];
 module.exports = quotes;
