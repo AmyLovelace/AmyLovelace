@@ -86,6 +86,7 @@ const quotes = [
   "2024",
   "My mama was a' English teacher. I know how to use correct English but sometimes I just don't feel like it aaaand I ain't got to",
   "My greatest pain in life is that I will never be able to see myself perform live.",
-  "For me, money is not my definition of success. Inspiring people is a definition of success"
+  "For me, money is not my definition of success. Inspiring people is a definition of success",
+  "The world is our office"
 ];
 module.exports = quotes;
