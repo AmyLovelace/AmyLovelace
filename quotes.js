@@ -82,6 +82,7 @@ const quotes = [
   "Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth",
   "I'm on the pursuit of awesomeness, excellence is the bare minimum.",
   "The thought police want to suppress freedom of thought",
-  "I was just speaking with someone that told me their life story and they used to be homeless."
+  "I was just speaking with someone that told me their life story and they used to be homeless.",
+  "2024"
 ];
 module.exports = quotes;
