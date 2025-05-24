@@ -90,6 +90,7 @@ const quotes = [
   "The world is our office",
   "Just stop lying about shit. Just stop lying.",
   "We will change the paradigm",
-  "My mother in law Kris Jenner ... makes the best music playlist"
+  "My mother in law Kris Jenner ... makes the best music playlist",
+  "I don't wanna see no woke tweets or hear no woke raps ... it's show time ... it's a whole different energy right now"
 ];
 module.exports = quotes;
