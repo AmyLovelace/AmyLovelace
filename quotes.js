@@ -92,6 +92,7 @@ const quotes = [
   "We will change the paradigm",
   "My mother in law Kris Jenner ... makes the best music playlist",
   "I don't wanna see no woke tweets or hear no woke raps ... it's show time ... it's a whole different energy right now",
-  "I'm nice at ping pong"
+  "I'm nice at ping pong",
+  "I'm giving all Good music artists back the 50% share I have of their masters"
 ];
 module.exports = quotes;
