@@ -99,6 +99,7 @@ const quotes = [
   "People say it's enough and I got my point across ... the point isn't across until we cross the point",
   "We're going to move the entire music industry into the 21st Century",
   "Life is the ultimate gift",
-  "We must and will cure homelessness and hunger. We have the capability as a species"
+  "We must and will cure homelessness and hunger. We have the capability as a species",
+  "One day I'm gon' marry a porn star"
 ];
 module.exports = quotes;
