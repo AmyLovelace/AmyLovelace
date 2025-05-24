@@ -95,6 +95,7 @@ const quotes = [
   "I'm nice at ping pong",
   "I'm giving all Good music artists back the 50% share I have of their masters",
   "If I don't scream, if I don't say something then no one's going to say anything.",
-  "The world is our family"
+  "The world is our family",
+  "People say it's enough and I got my point across ... the point isn't across until we cross the point"
 ];
 module.exports = quotes;
