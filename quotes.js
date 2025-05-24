@@ -94,6 +94,7 @@ const quotes = [
   "I don't wanna see no woke tweets or hear no woke raps ... it's show time ... it's a whole different energy right now",
   "I'm nice at ping pong",
   "I'm giving all Good music artists back the 50% share I have of their masters",
-  "If I don't scream, if I don't say something then no one's going to say anything."
+  "If I don't scream, if I don't say something then no one's going to say anything.",
+  "The world is our family"
 ];
 module.exports = quotes;
