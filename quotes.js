@@ -97,6 +97,7 @@ const quotes = [
   "If I don't scream, if I don't say something then no one's going to say anything.",
   "The world is our family",
   "People say it's enough and I got my point across ... the point isn't across until we cross the point",
-  "We're going to move the entire music industry into the 21st Century"
+  "We're going to move the entire music industry into the 21st Century",
+  "Life is the ultimate gift"
 ];
 module.exports = quotes;
