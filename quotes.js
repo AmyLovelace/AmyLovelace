@@ -108,6 +108,7 @@ const quotes = [
   "My memories are from the future",
   "Perhaps I should have been more like water today",
   "Decentralize",
-  "People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome!"
+  "People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome!",
+  "Burn that excel spread sheet"
 ];
 module.exports = quotes;
