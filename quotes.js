@@ -101,6 +101,7 @@ const quotes = [
   "Life is the ultimate gift",
   "We must and will cure homelessness and hunger. We have the capability as a species",
   "One day I'm gon' marry a porn star",
-  "Sometimes you have to get rid of everything"
+  "Sometimes you have to get rid of everything",
+  "I'm the new Moses"
 ];
 module.exports = quotes;
