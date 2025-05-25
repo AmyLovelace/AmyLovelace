@@ -111,6 +111,7 @@ const quotes = [
   "People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome!",
   "Burn that excel spread sheet",
   "Buy property",
-  "My first pillar when I'm on the board of adidas will be an adidas Nike collaboration to support community growth"
+  "My first pillar when I'm on the board of adidas will be an adidas Nike collaboration to support community growth",
+  "I'm the best"
 ];
 module.exports = quotes;
