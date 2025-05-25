@@ -107,6 +107,7 @@ const quotes = [
   "We've gotten comfortable with not having what we deserve",
   "My memories are from the future",
   "Perhaps I should have been more like water today",
-  "Decentralize"
+  "Decentralize",
+  "People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome!"
 ];
 module.exports = quotes;
