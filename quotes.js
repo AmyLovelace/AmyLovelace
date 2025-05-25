@@ -102,6 +102,7 @@ const quotes = [
   "We must and will cure homelessness and hunger. We have the capability as a species",
   "One day I'm gon' marry a porn star",
   "Sometimes you have to get rid of everything",
-  "I'm the new Moses"
+  "I'm the new Moses",
+  "I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory."
 ];
 module.exports = quotes;
