@@ -100,6 +100,7 @@ const quotes = [
   "We're going to move the entire music industry into the 21st Century",
   "Life is the ultimate gift",
   "We must and will cure homelessness and hunger. We have the capability as a species",
-  "One day I'm gon' marry a porn star"
+  "One day I'm gon' marry a porn star",
+  "Sometimes you have to get rid of everything"
 ];
 module.exports = quotes;
