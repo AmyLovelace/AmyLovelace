@@ -103,6 +103,7 @@ const quotes = [
   "One day I'm gon' marry a porn star",
   "Sometimes you have to get rid of everything",
   "I'm the new Moses",
-  "I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory."
+  "I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory.",
+  "We've gotten comfortable with not having what we deserve"
 ];
 module.exports = quotes;
