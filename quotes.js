@@ -106,6 +106,7 @@ const quotes = [
   "I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory.",
   "We've gotten comfortable with not having what we deserve",
   "My memories are from the future",
-  "Perhaps I should have been more like water today"
+  "Perhaps I should have been more like water today",
+  "Decentralize"
 ];
 module.exports = quotes;
