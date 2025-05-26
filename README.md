@@ -32,12 +32,12 @@
 
 </div>
 
+[![committers.top badge](https://user-badge.committers.top/chile/AmyLovelace.svg)](https://user-badge.committers.top/chile/AmyLovelace)
+
 
 ## 📊 My Stats
 
 [![](https://visitcount.itsvg.in/api?id=AmyLovelace&&icon=6&color=0)](https://visitcount.itsvg.in)
-
-[![committers.top badge](https://user-badge.committers.top/chile/AmyLovelace.svg)](https://user-badge.committers.top/chile/AmyLovelace)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AmyLovelace&mode=weekly&theme=radical&background=000000)](https://git.io/streak-stats)
 
