@@ -32,10 +32,9 @@
 
 </div>
 
-[![committers.top badge](https://user-badge.committers.top/chile/AmyLovelace.svg)](https://user-badge.committers.top/chile/AmyLovelace)
-
-
 ## 📊 My Stats
+
+[![committers.top badge](https://user-badge.committers.top/chile/AmyLovelace.svg?cache-bust=1)](https://user-badge.committers.top/chile/AmyLovelace)
 
 [![](https://visitcount.itsvg.in/api?id=AmyLovelace&&icon=6&color=0)](https://visitcount.itsvg.in)
 
