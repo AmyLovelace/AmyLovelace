@@ -113,6 +113,7 @@ const quotes = [
   "Buy property",
   "My first pillar when I'm on the board of adidas will be an adidas Nike collaboration to support community growth",
   "I'm the best",
-  "I love sleep; it's my favorite."
+  "I love sleep; it's my favorite.",
+  "People only get jealous when they care."
 ];
 module.exports = quotes;
