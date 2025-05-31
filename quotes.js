@@ -114,6 +114,7 @@ const quotes = [
   "My first pillar when I'm on the board of adidas will be an adidas Nike collaboration to support community growth",
   "I'm the best",
   "I love sleep; it's my favorite.",
-  "People only get jealous when they care."
+  "People only get jealous when they care.",
+  "So many of us need so much less than we have especially when so many of us are in need"
 ];
 module.exports = quotes;
