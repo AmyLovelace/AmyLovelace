@@ -115,6 +115,7 @@ const quotes = [
   "I'm the best",
   "I love sleep; it's my favorite.",
   "People only get jealous when they care.",
-  "So many of us need so much less than we have especially when so many of us are in need"
+  "So many of us need so much less than we have especially when so many of us are in need",
+  "Culture is the most powerful force in humanity under God"
 ];
 module.exports = quotes;
