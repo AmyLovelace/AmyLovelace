@@ -118,6 +118,7 @@ const quotes = [
   "So many of us need so much less than we have especially when so many of us are in need",
   "Culture is the most powerful force in humanity under God",
   "We will be recognized",
-  "Artists are founders"
+  "Artists are founders",
+  "Today is the best day ever and tomorrow's going to be even better"
 ];
 module.exports = quotes;
