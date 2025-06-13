@@ -119,6 +119,7 @@ const quotes = [
   "Culture is the most powerful force in humanity under God",
   "We will be recognized",
   "Artists are founders",
-  "Today is the best day ever and tomorrow's going to be even better"
+  "Today is the best day ever and tomorrow's going to be even better",
+  "We used to diss Michael Jackson the media made us call him crazy ... then they killed him"
 ];
 module.exports = quotes;
