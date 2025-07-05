@@ -16,54 +16,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SETTING_JSON: custom-contrib.json
-          USERNAME: amylovelace
-      - name: Fetch Kanye quote and write to log
-        run: |
-          echo "Fetching Kanye quote..."
-          sudo apt-get update
-          sudo apt-get install -y nodejs npm
-          npm install node-fetch@2
-          echo "const fetch = require('node-fetch');
-          const fs = require('fs');
-          const path = 'quotes.js';
-
-          fetch('https://api.kanye.rest')
-            .then(res => res.json())
-            .then(data => {
-              const quote = data.quote;
-              let quotes = [];
-
-              if (fs.existsSync(path)) {
-                try {
-                  const content = fs.readFileSync(path, 'utf8');
-                  const match = content.match(/const quotes = (\\[.*\\]);/s);
-                  if (match && match[1]) {
-                    quotes = JSON.parse(match[1]);
-                  }
-                } catch (err) {
-                  console.error('Error reading existing quotes.js:', err);
-                }
-              }
-
-              if (!quotes.includes(quote)) {
-                quotes.push(quote);
-              }
-
-              const output = 'const quotes = ' + JSON.stringify(quotes, null, 2) + ';\\nmodule.exports = quotes;';
-              fs.writeFileSync(path, output);
-              console.log('Quote written to quotes.js:', quote);
-            });" > fetch-kanye.js
-          node fetch-kanye.js
-
-      - name: Commit & Push
-        run: |
-          git config user.name "AmyLovelace"
-          git config user.email "amanecer.luz.cabrera@gmail.com"
-          git checkout main
-          git fetch origin
-          git add quotes.js profile-3d-contrib/profile-custom-en.svg
-          git commit -m "generated $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
-          git pull --rebase origin main
-          git push
-
+          USERNAME: amylovelace       
     
